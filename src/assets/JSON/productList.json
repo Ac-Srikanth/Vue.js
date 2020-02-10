@@ -1,0 +1,112 @@
+[
+	{
+		"id": 1,
+		"BrandName": "Milkfood",
+		"ProductName": "Milkfood Rich Desi Danedar Ghee (carton)",
+		"Quantity": 0,
+		"Price": 408,
+		"MRP": 498,
+		"ImageUrl": "milkfood.jpg",
+		"OfferText": "18% OFF",
+		"Total": 0
+	},
+	{
+		"id": 2,
+		"BrandName": "Britannia",
+		"ProductName": "Britannia Ghee - High Aroma",
+		"Quantity": 0,
+		"Price": 110,
+		"MRP": 115,
+		"ImageUrl": "britania.jpg",
+		"OfferText": "5% OFF",
+		"Total": 0
+	},
+	{
+		"id": 3,
+		"BrandName": "Aavin",
+		"ProductName": "Aavin Ghee",
+		"Quantity": 0,
+		"Price": 93.93,
+		"MRP": 110,
+		"ImageUrl": "aavin.jpg",
+		"OfferText": "11% OFF",
+		"Total": 0
+	},
+	{
+		"id": 4,
+		"BrandName": "GRB",
+		"ProductName": "GRB Ghee",
+		"Quantity": 0,
+		"Price": 637,
+		"MRP": 650,
+		"ImageUrl": "grb.jpg",
+		"OfferText": "13% OFF",
+		"Total": 0
+	},
+	{
+		"id": 5,
+		"BrandName": "Amul",
+		"ProductName": "Amul Pure Ghee",
+		"Quantity": 0,
+		"Price": 450,
+		"MRP": 480,
+		"ImageUrl": "amul.jpg",
+		"OfferText": "30% OFF",
+		"Total": 0
+	},
+	{
+		"id": 6,
+		"BrandName": "Aashirvaad Svasti",
+		"ProductName": "Aashirvaad Svasti Cow Ghee",
+		"Quantity": 0,
+		"Price": 400,
+		"MRP": 640,
+		"ImageUrl": "aasirvad.jpg",
+		"OfferText": "40% OFF",
+		"Total": 0
+	},
+	{
+		"id": 7,
+		"BrandName": "Heritage",
+		"ProductName": "Heritage Buffalo Ghee - Special Grade with Milk Fat",
+		"Quantity": 0,
+		"Price": 529.2,
+		"MRP": 540,
+		"ImageUrl": "heritage.jpg",
+		"OfferText": "11% OFF",
+		"Total": 0
+	},
+	{
+		"id": 8,
+		"BrandName": "18 Herbs",
+		"ProductName": "18 Herbs Organics Desi Ghee - Rich In Probiotics",
+		"Quantity": 0,
+		"Price": 313.5,
+		"MRP": 330,
+		"ImageUrl": "18herbs.jpg",
+		"OfferText": "17% OFF",
+		"Total": 0
+	},
+	{
+		"id": 9,
+		"BrandName": "Skc",
+		"ProductName": "Skc A-1 Agmark Ghee",
+		"Quantity": 0,
+		"Price": 580.5,
+		"MRP": 650,
+		"ImageUrl": "skc.jpg",
+		"OfferText": "10% OFF",
+		"Total": 0
+	},
+	{
+		"id": 10,
+		"BrandName": "Jersey",
+		"ProductName": "Jersey Ghee",
+		"Quantity": 0,
+		"Price": 517,
+		"MRP": 550,
+		"ImageUrl": "jersey.jpg",
+		"OfferText": "33% OFF",
+		"Total": 0
+	}
+]
